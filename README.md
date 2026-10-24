@@ -60,10 +60,11 @@ IMPLICARE
 ## Galerie
 ![POZA LICEU](https://www.admitereliceu.ro/uploads/school/16/17/26/300x200/cnmihaiviteazulslobozia.jpg)
 [SURSA](https://www.admitereliceu.ro/institutie/colegiul-national-mihai-viteazul-slobozia)
+![SIGLA LICEULUI](IMAGINI/emblema%20clasei.jpg)
 ## Resurse utile
 [CNMV SLOBOZIA](https://cnmvslobozia.ro/)
 [SURSA EDUCATIONALA](https://www.fizichim.ro/en/)
-[VEZI ORARUL CLASEI]
+[VEZI ORARUL CLASEI](#orar)
 ## Anunturi
 
 ~~in ziua de joi ne vom intalni in sala de festivitati a liceului~~
