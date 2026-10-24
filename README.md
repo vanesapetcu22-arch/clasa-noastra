@@ -47,14 +47,25 @@ IMPLICARE
 - proiecte la chimie
 - excursii
   1. alegerea ideii
-  2. stabilirea
+  2. stabilirea locatiei
   3. stabilirea responsabilităților
-  4. 
+  4. distractie
+  
+  Exemplu de planificare
+
+- [x] plantarea florilor
+- [ ] mers in parc
+- [x] voluntariat
+- [ ] aducerea trotinetelor si a bicicletelor
 ## Galerie
+![POZA LICEU](https://www.admitereliceu.ro/uploads/school/16/17/26/300x200/cnmihaiviteazulslobozia.jpg))
 ## Resurse utile
+[CNMV SLOBOZIA](https://cnmvslobozia.ro/)
+[SURSA EDUCATIONALA](https://www.fizichim.ro/en/)
+[VEZI ORARUL CLASEI]
 ## Anunturi
 
-~~ in ziua de joi ne vom intalni in sala de festivitati a liceului ~~
+~~in ziua de joi ne vom intalni in sala de festivitati a liceului~~
 
-in ziua de vineri ne vom intalni in amfiteatrul liceului
+**in ziua de vineri ne vom intalni in amfiteatrul liceului**
 
