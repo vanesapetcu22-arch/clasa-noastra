@@ -1,5 +1,9 @@
 # Clasa a IX-a B - CNMV SLOBOZIA
 ## Despre noi
+>Învățăm mai bine când colaborăm și ne respectăm.<br>
+
+>Fiecare coleg poate contribui cu o idee, o întrebare sau un ajutor.
+
 **Clasa a IX-a B** ste cea mai buna clasa din cadrul CNMV Slobozia, unul dintre cele mai buna din judetul Ialomita. 
 
 *Ne place informatica si ne am dori sa mergem la concursuri impreuna.* ***Suntem destepti si ambitiosi.***
